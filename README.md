@@ -1,2 +1,2 @@
-# freecodecamp_notes
-freeCodeCamp tutorials notes
+# freeCodeCamp Tutorials Notes
+- Responsive web design
